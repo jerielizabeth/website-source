@@ -40,7 +40,7 @@ check-deploy-dir:
 # Sync built site to deployment directory
 sync: build check-deploy-dir
 	@echo "$(YELLOW)Syncing _site/ to $(DEPLOY_DIR)...$(NC)"
-	rsync -av --delete $(SITE_DIR) $(DEPLOY_DIR)
+	rsync -av $(SITE_DIR) $(DEPLOY_DIR)
 	@echo "$(GREEN)Sync complete!$(NC)"
 
 # Commit and push changes in current directory
