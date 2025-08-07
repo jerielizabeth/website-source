@@ -31,7 +31,7 @@ I am a Digital Historian and Assistant Director of the Center for Digital Humani
 
 Previously I was an Assistant Professor in the [Department of Religious Studies](https://religion.ua.edu/) at The University of Alabama. There I was the founding director of the Director of the [REL Digital Lab](https://digitallab.religion.ua.edu/), a digital humanities lab supporting research and teaching within the Department of Religious Studies.
 
-I focus on data curation, machine learning, and natural language processing with historical sources. I consider issues of AI ethics and the intersection of historical methods, focused on context and complexity, and the building of large-scale models.
+I focus on data curation, machine learning, and natural language processing with historical sources. I consider issues of AI ethics and the intersection of historical methods and the building of models, as well as on the outputs of digital scholarship.
 
 ## current projects
 - **Of Time and Topics**. A book project based on the dissertation that engages methods in digital history and American religious history.
