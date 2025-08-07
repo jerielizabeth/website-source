@@ -1,0 +1,22 @@
+---
+layout: post
+title: Looking west
+author: jeri.elizabeth
+
+permalink: /blog/2012/10/04/looking-west/
+tags: coursework
+
+---
+The readings this week are a somewhat eclectic collection of readings relating to religion and women in the west. Since I am keeping the more detailed notes in handwritten form this week, the texts were: Sarah Deutsch, *No Separate Refuge*; Devon Mihesuah, *Cultivating the Rosebuds*; Ramón Gutiérrez, *When Jesus Came, the Corn Mothers Went Away*; and Peggy Pascoe, *Relations of Rescue*.
+
+One of the recurring features of these works is the tendency to use yet again the rhetoric of &#8220;separate spheres&#8221; and the &#8220;cult&#8221; of &#8220;womanhood.&#8221; In these text, references were usually deployed to complicate the ideas of separate spheres but of often relied on ideas of domesticity and the cult of womanhood. It is not hard to see why: from the rhetoric of Pascoe&#8217;s late 19th century female reformers to the ideas about race and gender taught and emulated by Cherokee students, it does seem that ideals about gender and domesticity formed a large part of the framework that shaped many women&#8217;s experience during the 19th century. Given the readings from last week, however, it is interesting to me how resilient the language of separate spheres is. Even when mentioned to show how it fails, the theme of spheres seems embedded in the historians subconscious in ways that are perhaps veering toward being more revealing of the present than of the past. Perhaps &#8230;
+
+The two pieces that were most obviously dissertations, *Cultivating the Rosebuds* and *No Separate Refuge *were interesting to read as examples of types of studies that can be done as dissertation projects. Mihesuah&#8217;s piece was encouraging in its narrow focus, although many of the theoretical questions regarding the construction of race and gender were left underdeveloped. Deutsch&#8217;s piece, on the other hand, presented an intimidating picture of the dissertation project, as her area of study and her questions were much wider in scope and broader in implication. On the other hand, her study, which focuses on Chicano, and particularly Chicana, strategies for maintaining cultural integrity in the face of Anglo-American culture, offers a more nuanced and positive depiction of the role of women in Hispanic American culture than had previously existed. Her&#8217;s is instructive of how preconceived ideas about cultural structures can obstruct the view of different strategies for exercising authority, something that I will also need to keep in mind while studying women in religious movements.
+
+Also, as a side note, Deutsch&#8217;s piece offers some interesting possibilities for geo-spatial analysis, as she is describing community networks that span great distances and are changing over time.
+
+Pascoe&#8217;s piece also touches on the dangers inherent in assuming a singular vision of &#8220;female culture.&#8221; While her work is motivated by current concerns about the programs of cultural feminists, she grounds her concerns by examining the similar reform efforts of Protestant women during the late 19th century. The women she studies open houses of refuge with the goal of female uplift and challenging patriarchy, however, they do so by assuming the centrality of &#8220;purity and piety&#8221; to all women. The result is a complicated story that throws the relationship between gender, race, and class into sharp relief.
+
+Gutiérrez&#8217;s piece was one that I was excited to read but a bit disappointed with for my current purposes. The central part of his investigation focuses on the 17th and 18th centuries, with minimal gesturing toward the 19th. His centering of Pueblo and Acoma origin myths provides an interesting contrast to approaches such as Daniel Richter&#8217;s *Facing East from Indian Country* and offers a useful picture of native cosmology prior to Spanish conquest. However, much of his analysis is focused on drawing a stark distinction between the centrality of sexuality to Pueblo culture and the sexual repression he identifies as guiding Spanish Catholicism. The sections of the book that focus on his central question of how marriage structured social inequality focuses largely on Spanish and Spanish colonials marriages.
+
+In all, these books offer pictures of the complicated processes by which gender is described and prescribed.

@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeri E. Wieringa",
+    "label": "Historian",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jeri@wieringa.io",
+    // "phone": "(912) 123-4567",
+    "url": "https://jeriwieringa.io",
+    "summary": "Digital Historian",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

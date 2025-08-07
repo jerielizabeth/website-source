@@ -8,7 +8,7 @@
       {% elsif page.redirect contains '://' %}
         {% assign redirect = page.redirect %}
       {% else %}
-        {% assign redirect = page.redirect | relative_url %}
+        {% assign redirect = page.redirect | absolute_url %}
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
